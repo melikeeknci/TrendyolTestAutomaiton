@@ -1,0 +1,1 @@
+{"uuid":"d5d61c7a-7082-4994-bd16-1d528fdded8c","name":"CouponTest","children":["cb6fb59e-dfd4-4580-854f-438b029d25db"],"befores":[{"name":"setUpBeforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725448087247,"stop":1725448129013}],"afters":[],"start":1725448087247,"stop":1725448212718}

@@ -1,0 +1,1 @@
+{"uuid":"47c59e7d-e5ca-4284-9da2-2a42f2981244","name":"TrendyolTestAutomation","children":["d60ce570-ab7a-4d26-b5a8-dd52640e002f"],"befores":[{"name":"setUpBeforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1726147225707,"stop":1726147230599}],"afters":[],"start":1726147225660,"stop":1726147240528}
